@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FULL STACK Developer & Software Tester
 --------------------------------------
  
-After graduate in Science Technology at high school of Naples (Galileo Ferraris). Anyway i studied as a self-taught more technologies for example: SwiftUI - Java - Spring - Selenium and other. Actually I search a work in IT industries.
+After graduate in Science Technology at high school of Naples (Galileo Ferraris) while I studied as a self-taught more technologies for example: SwiftUI - Java - Spring - Selenium and other. Actually I search a work in IT industries.
  
 * 🌍  I'm based in Naples
 * ✉️  You can contact me at [felicemarano@icloud.com](mailto:felicemarano@icloud.com)
