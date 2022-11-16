@@ -8,7 +8,7 @@ After graduate in Science Technology at high school of Naples (Galileo Ferraris)
  
 * 🌍  I'm based in Naples
 * ✉️  You can contact me at [felicemarano@icloud.com](mailto:felicemarano@icloud.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning React
  
 ### Skills
  
